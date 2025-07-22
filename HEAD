@@ -1,4 +1,1 @@
-0000000000000000000000000000000000000000 3dd9f99112589336e22894fd169a2d0444982895 chamabunda8 <45387354-chamabunda8@users.noreply.replit.com> 1753215892 +0000	commit (initial): Initial commit
-3dd9f99112589336e22894fd169a2d0444982895 2c1738acbd8c95f291ecd2658df6cdc3f058eab7 chamabunda8 <45387354-chamabunda8@users.noreply.replit.com> 1753216363 +0000	commit: Set up base structure for website and improve real-time syncing feature
-2c1738acbd8c95f291ecd2658df6cdc3f058eab7 7b8063cea20f18d52ac712a91a176489e7aed983 chamabunda8 <45387354-chamabunda8@users.noreply.replit.com> 1753217522 +0000	commit: Provide a complete code export and deployment guide for easy setup
-7b8063cea20f18d52ac712a91a176489e7aed983 e02bc6b9755101e2f7bb8d4de38a0fa37957630b chamabunda8 <45387354-chamabunda8@users.noreply.replit.com> 1753218949 +0000	commit: Introduce project details and exclude unnecessary files from Git tracking
+ref: refs/heads/main
